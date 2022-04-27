@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">GoDigitalTest</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title">Movie Name</string>
-    <string name="summary">When army pilot Steve Trevor crashes on the warriors\' secluded island paradise, disrupting the fictitious all-female sanctuary of Themyscira created by the Gods of Olympus, Princess Diana of the immortal Amazons aids for his rescue and wins the decisive right to escort him home, heading to an early 20th Century London to stop the war she believes is influenced by the God Ares. Leaving behind the only life she\'s ever known and entering the cynical world of men for the first time, torn between a mission to promote peace and her own warrior upbringing, as a \"Wonder Woman,\" Diana must fight evil in a \"war to end all wars,\" while hoping to unlock the potential of a humanity she doesn\'t always understand.</string>
     <string name="summaryTitle">Summary</string>
     <string name="movies">Movies</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
 </resources>

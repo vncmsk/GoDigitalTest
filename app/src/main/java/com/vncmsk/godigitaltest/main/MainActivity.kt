@@ -2,15 +2,17 @@ package com.vncmsk.godigitaltest.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.vncmsk.godigitaltest.R
+import com.vncmsk.godigitaltest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+
+  private lateinit var binding: ActivityMainBinding
+
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-    setContentView(R.layout.activity_main)
-  }
-
-  fun hideIcon() {
-    TODO("Not yet implemented")
+    binding = ActivityMainBinding.inflate(layoutInflater)
+    setContentView(binding.root)
   }
 }
+
+
