@@ -7,3 +7,17 @@ F
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 A
 gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+m
+=app/src/main/java/com/vncmsk/godigitaltest/data/ApiFactory.kt,e\e\ee05673465a1b054ec0e3512e11f518bf22cfd76
+m
+=app/src/main/java/com/vncmsk/godigitaltest/data/ApiService.kt,6\4\64b35563c1a08e9e7d95769d4d5e7e4f76ba9c4a
+o
+?app/src/main/java/com/vncmsk/godigitaltest/main/MainActivity.kt,7\9\79666cddf9c450c670b6d1723b5356c525878c14
+r
+Bapp/src/main/java/com/vncmsk/godigitaltest/ui/list/MovieAdapter.kt,5\1\51370b89781753b78e7fd6b9eae55c202c32d0e3
+r
+Bapp/src/main/java/com/vncmsk/godigitaltest/ui/list/ListFragment.kt,7\b\7b11278a3f6062a570ba48f062ad4e25bbf78470
+v
+Fapp/src/main/java/com/vncmsk/godigitaltest/ui/detail/DetailFragment.kt,2\c\2ce92363b905671e49b8049c02efcc8dc1cd051e
