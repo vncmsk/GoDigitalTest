@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/GoDigitalTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
+        <entry key="..\:/GoDigitalTest/app/src/main/res/drawable/border.xml" value="0.2205" />
+        <entry key="..\:/GoDigitalTest/app/src/main/res/drawable/detailborder.xml" value="0.2205" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.183" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/font/.xml" value="0.3388888888888889" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/layout/activity_main.xml" value="0.28888888888888886" />
-        <entry key="..\:/GoDigitalTest/app/src/main/res/layout/card_view_movie.xml" value="0.25" />
+        <entry key="..\:/GoDigitalTest/app/src/main/res/layout/card_view_movie.xml" value="0.67" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/layout/cardview_movie.xml" value="0.15" />
-        <entry key="..\:/GoDigitalTest/app/src/main/res/layout/fragment_detail.xml" value="0.2719298245614035" />
+        <entry key="..\:/GoDigitalTest/app/src/main/res/layout/fragment_detail.xml" value="0.33" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/layout/fragment_itemlist.xml" value="0.3323076923076923" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/layout/fragment_list.xml" value="0.33" />
         <entry key="..\:/GoDigitalTest/app/src/main/res/layout/fragment_list_.xml" value="0.3323076923076923" />
@@ -22,5 +24,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

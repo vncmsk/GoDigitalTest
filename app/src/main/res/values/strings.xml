@@ -7,4 +7,11 @@
     <string name="todo">TODO</string>
     <string name="textview">TextView</string>
     <string name="test">After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.</string>
+    <string name="rate_value">10,1</string>
+    <string name="fecha">Lanzamiento</string>
+    <string name="popularity">Popularity</string>
+    <string name="votes">Votes</string>
+    <string name="popValue">9695</string>
+    <string name="count">566</string>
+    <string name="date">01/01/2022</string>
 </resources>

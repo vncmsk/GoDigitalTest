@@ -19,6 +19,7 @@
         android:name="com.vncmsk.godigitaltest.ui.detail.DetailFragment"
         android:label="fragment_detail"
         tools:layout="@layout/fragment_detail" >
-        <argument android:name="moviesArgs" />
+        <argument android:name="moviesArgs"
+            app:argType="com.vncmsk.godigitaltest.model.Movie" />
     </fragment>
 </navigation>
